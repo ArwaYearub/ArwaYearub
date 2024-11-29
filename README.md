@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects Containing React.js
 - 📫 How to reach me by Emailing me on Arwa.Yaareb@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like Minecraft and Journaling
+- ⚡ Fun fact: I like Zelda BotW and Journaling
 
 <!---
 ArwaYearub/ArwaYearub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
